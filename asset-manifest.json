@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/Varungm-dummyCart/static/css/main.73f4a66b.css",
-    "main.js": "/Varungm-dummyCart/static/js/main.e2645787.js",
+    "main.js": "/Varungm-dummyCart/static/js/main.2271a605.js",
     "static/js/453.d28fe3a2.chunk.js": "/Varungm-dummyCart/static/js/453.d28fe3a2.chunk.js",
     "static/media/img1.png": "/Varungm-dummyCart/static/media/img1.c43d455225f76fab4d1e.png",
+    "static/media/img4.png": "/Varungm-dummyCart/static/media/img4.e346e152b31ae0d93edc.png",
     "index.html": "/Varungm-dummyCart/index.html",
     "main.73f4a66b.css.map": "/Varungm-dummyCart/static/css/main.73f4a66b.css.map",
-    "main.e2645787.js.map": "/Varungm-dummyCart/static/js/main.e2645787.js.map",
+    "main.2271a605.js.map": "/Varungm-dummyCart/static/js/main.2271a605.js.map",
     "453.d28fe3a2.chunk.js.map": "/Varungm-dummyCart/static/js/453.d28fe3a2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.73f4a66b.css",
-    "static/js/main.e2645787.js"
+    "static/js/main.2271a605.js"
   ]
 }
